@@ -1,0 +1,11 @@
+entities\Reddit.class
+entities\Failures.class
+entities\Launches.class
+entities\Links.class
+entities\Patch.class
+entities\Crew.class
+entities\Flickr.class
+entities\Ship.class
+entities\Fairings.class
+utils\PropertiesReader.class
+entities\Core.class
